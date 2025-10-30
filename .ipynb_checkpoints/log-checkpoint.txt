@@ -1,0 +1,587 @@
+=== Training Completed at 2025-09-01 05:56:31  with loss 2.0789  for epoch 14 ===
+
+=== Training Completed at 2025-09-01 06:02:09  with loss 2.0664  for epoch 15 ===
+
+=== Training Completed at 2025-09-01 06:07:48  with loss 2.0588  for epoch 16 ===
+
+=== Training Completed at 2025-09-01 06:13:25  with loss 2.0459  for epoch 17 ===
+
+=== Training Completed at 2025-09-01 06:19:04  with loss 2.0382  for epoch 18 ===
+
+=== Training Completed at 2025-09-01 06:24:43  with loss 2.0240  for epoch 19 ===
+
+=== Training Completed at 2025-09-01 06:30:21  with loss 2.0142  for epoch 20 ===
+
+=== Training Completed at 2025-09-01 06:36:01  with loss 2.0048  for epoch 21 ===
+
+=== Training Completed at 2025-09-01 06:41:40  with loss 1.9902  for epoch 22 ===
+
+=== Training Completed at 2025-09-01 06:47:21  with loss 1.9925  for epoch 23 ===
+
+=== Training Completed at 2025-09-01 06:52:59  with loss 1.9714  for epoch 24 ===
+
+=== Training Completed at 2025-09-01 06:58:37  with loss 1.9636  for epoch 25 ===
+
+=== Training Completed at 2025-09-01 07:04:14  with loss 1.9482  for epoch 26 ===
+
+=== Training Completed at 2025-09-01 07:09:51  with loss 1.9502  for epoch 27 ===
+
+=== Training Completed at 2025-09-01 07:15:29  with loss 1.9389  for epoch 28 ===
+
+=== Training Completed at 2025-09-01 07:21:08  with loss 1.9323  for epoch 29 ===
+
+=== Training Completed at 2025-09-01 07:26:46  with loss 1.9168  for epoch 30 ===
+
+=== Training Completed at 2025-09-01 07:32:24  with loss 1.9109  for epoch 31 ===
+
+=== Training Completed at 2025-09-01 07:38:02  with loss 1.9050  for epoch 32 ===
+
+=== Training Completed at 2025-09-01 07:43:41  with loss 1.8981  for epoch 33 ===
+
+=== Training Completed at 2025-09-01 07:49:19  with loss 1.8875  for epoch 34 ===
+
+=== Training Completed at 2025-09-01 07:54:57  with loss 1.8823  for epoch 35 ===
+
+=== Training Completed at 2025-09-01 08:00:36  with loss 1.8817  for epoch 36 ===
+
+=== Training Completed at 2025-09-01 08:35:27  with loss 2.0688  for epoch 38 ===
+
+=== Training Completed at 2025-09-01 08:40:48  with loss 2.0626  for epoch 39 ===
+
+=== Training Completed at 2025-09-01 08:46:08  with loss 2.0635  for epoch 40 ===
+
+=== Training Completed at 2025-09-01 08:51:29  with loss 2.0416  for epoch 41 ===
+
+=== Training Completed at 2025-09-01 08:56:49  with loss 2.0415  for epoch 42 ===
+
+=== Training Completed at 2025-09-01 09:02:10  with loss 2.0212  for epoch 43 ===
+
+=== Training Completed at 2025-09-01 09:07:29  with loss 2.0342  for epoch 44 ===
+
+=== Training Completed at 2025-09-01 09:12:49  with loss 2.0285  for epoch 45 ===
+
+=== Training Completed at 2025-09-01 09:18:10  with loss 2.0383  for epoch 46 ===
+
+=== Training Completed at 2025-09-01 09:23:30  with loss 2.0116  for epoch 47 ===
+
+=== Training Completed at 2025-09-01 09:28:52  with loss 2.0025  for epoch 48 ===
+
+=== Training Completed at 2025-09-01 09:34:13  with loss 2.0127  for epoch 49 ===
+
+=== Training Completed at 2025-09-01 09:39:33  with loss 2.0162  for epoch 50 ===
+
+=== Training Completed at 2025-09-01 09:44:54  with loss 2.0022  for epoch 51 ===
+
+=== Training Completed at 2025-09-01 09:50:14  with loss 2.0103  for epoch 52 ===
+
+=== Training Completed at 2025-09-01 09:55:34  with loss 1.9989  for epoch 53 ===
+
+=== Training Completed at 2025-09-01 10:00:54  with loss 1.9930  for epoch 54 ===
+
+=== Training Completed at 2025-09-01 10:06:15  with loss 1.9921  for epoch 55 ===
+
+=== Training Completed at 2025-09-01 10:11:35  with loss 1.9929  for epoch 56 ===
+
+=== Training Completed at 2025-09-01 10:16:55  with loss 1.9748  for epoch 57 ===
+
+=== Training Completed at 2025-09-01 10:22:16  with loss 1.9807  for epoch 58 ===
+
+=== Training Completed at 2025-09-01 10:27:36  with loss 1.9612  for epoch 59 ===
+
+=== Training Completed at 2025-09-01 10:32:57  with loss 1.9684  for epoch 60 ===
+
+=== Training Completed at 2025-09-01 10:38:17  with loss 1.9749  for epoch 61 ===
+
+=== Training Completed at 2025-09-01 10:43:38  with loss 1.9574  for epoch 62 ===
+
+=== Training Completed at 2025-09-01 10:48:59  with loss 1.9522  for epoch 63 ===
+
+=== Training Completed at 2025-09-01 10:54:19  with loss 1.9552  for epoch 64 ===
+
+=== Training Completed at 2025-09-01 10:59:41  with loss 1.9537  for epoch 65 ===
+
+=== Training Completed at 2025-09-01 11:05:02  with loss 1.9304  for epoch 66 ===
+
+=== Training Completed at 2025-09-01 11:10:23  with loss 1.9456  for epoch 67 ===
+
+=== Training Completed at 2025-09-01 11:15:44  with loss 1.9434  for epoch 68 ===
+
+=== Training Completed at 2025-09-01 11:21:06  with loss 1.9485  for epoch 69 ===
+
+=== Training Completed at 2025-09-01 11:26:28  with loss 1.9427  for epoch 70 ===
+
+=== Training Completed at 2025-09-01 11:31:49  with loss 1.9218  for epoch 71 ===
+
+=== Training Completed at 2025-09-01 11:37:10  with loss 1.9202  for epoch 72 ===
+
+=== Training Completed at 2025-09-01 11:42:29  with loss 1.9281  for epoch 73 ===
+
+=== Training Completed at 2025-09-01 11:47:50  with loss 1.9154  for epoch 74 ===
+
+=== Training Completed at 2025-09-01 11:53:13  with loss 1.9278  for epoch 75 ===
+
+=== Training Completed at 2025-09-01 11:58:34  with loss 1.9187  for epoch 76 ===
+
+=== Training Completed at 2025-09-01 12:03:56  with loss 1.9177  for epoch 77 ===
+
+=== Training Completed at 2025-09-01 12:09:17  with loss 1.9006  for epoch 78 ===
+
+=== Training Completed at 2025-09-01 12:14:37  with loss 1.9152  for epoch 79 ===
+
+=== Training Completed at 2025-09-01 12:19:57  with loss 1.9085  for epoch 80 ===
+
+=== Training Completed at 2025-09-01 12:25:19  with loss 1.9068  for epoch 81 ===
+
+=== Training Completed at 2025-09-01 12:30:42  with loss 1.8954  for epoch 82 ===
+
+=== Training Completed at 2025-09-01 12:36:02  with loss 1.8774  for epoch 83 ===
+
+=== Training Completed at 2025-09-01 12:41:23  with loss 1.8925  for epoch 84 ===
+
+=== Training Completed at 2025-09-01 12:46:43  with loss 1.8828  for epoch 85 ===
+
+=== Training Completed at 2025-09-01 12:52:03  with loss 1.8831  for epoch 86 ===
+
+=== Training Completed at 2025-09-01 12:57:25  with loss 1.8864  for epoch 87 ===
+
+=== Training Completed at 2025-09-01 13:02:45  with loss 1.8772  for epoch 88 ===
+
+=== Training Completed at 2025-09-01 13:08:06  with loss 1.8650  for epoch 89 ===
+
+=== Training Completed at 2025-09-01 13:13:27  with loss 1.8702  for epoch 90 ===
+
+=== Training Completed at 2025-09-01 13:18:48  with loss 1.8820  for epoch 91 ===
+
+=== Training Completed at 2025-09-01 13:24:07  with loss 1.8692  for epoch 92 ===
+
+=== Training Completed at 2025-09-01 13:29:28  with loss 1.8577  for epoch 93 ===
+
+=== Training Completed at 2025-09-01 13:34:49  with loss 1.8586  for epoch 94 ===
+
+=== Training Completed at 2025-09-01 13:40:10  with loss 1.8535  for epoch 95 ===
+
+=== Training Completed at 2025-09-01 13:45:31  with loss 1.8427  for epoch 96 ===
+
+=== Training Completed at 2025-09-01 13:50:57  with loss 1.8460  for epoch 97 ===
+
+=== Training Completed at 2025-09-01 13:56:18  with loss 1.8573  for epoch 98 ===
+
+=== Training Completed at 2025-09-01 14:01:40  with loss 1.8389  for epoch 99 ===
+
+=== Training Completed at 2025-09-01 14:07:01  with loss 1.8336  for epoch 100 ===
+
+=== Training Completed at 2025-09-01 14:12:22  with loss 1.8338  for epoch 101 ===
+
+=== Training Completed at 2025-09-01 14:17:44  with loss 1.8496  for epoch 102 ===
+
+=== Training Completed at 2025-09-01 14:23:05  with loss 1.8370  for epoch 103 ===
+
+=== Training Completed at 2025-09-01 14:28:26  with loss 1.8301  for epoch 104 ===
+
+=== Training Completed at 2025-09-01 14:33:48  with loss 1.8195  for epoch 105 ===
+
+=== Training Completed at 2025-09-01 14:39:10  with loss 1.8366  for epoch 106 ===
+
+=== Training Completed at 2025-09-01 14:44:31  with loss 1.8261  for epoch 107 ===
+
+=== Training Completed at 2025-09-01 14:49:52  with loss 1.8267  for epoch 108 ===
+
+=== Training Completed at 2025-09-01 14:55:13  with loss 1.8197  for epoch 109 ===
+
+=== Training Completed at 2025-09-01 15:00:34  with loss 1.8127  for epoch 110 ===
+
+=== Training Completed at 2025-09-01 15:05:55  with loss 1.8168  for epoch 111 ===
+
+=== Training Completed at 2025-09-01 15:11:16  with loss 1.8028  for epoch 112 ===
+
+=== Training Completed at 2025-09-01 15:16:35  with loss 1.8148  for epoch 113 ===
+
+=== Training Completed at 2025-09-01 15:21:58  with loss 1.8081  for epoch 114 ===
+
+=== Training Completed at 2025-09-01 15:27:18  with loss 1.7970  for epoch 115 ===
+
+=== Training Completed at 2025-09-01 15:32:39  with loss 1.8011  for epoch 116 ===
+
+=== Training Completed at 2025-09-01 15:38:00  with loss 1.7979  for epoch 117 ===
+
+=== Training Completed at 2025-09-01 15:43:21  with loss 1.7911  for epoch 118 ===
+
+=== Training Completed at 2025-09-01 15:48:44  with loss 1.7928  for epoch 119 ===
+
+=== Training Completed at 2025-09-01 15:54:04  with loss 1.7809  for epoch 120 ===
+
+=== Training Completed at 2025-09-01 15:59:25  with loss 1.7827  for epoch 121 ===
+
+=== Training Completed at 2025-09-01 16:04:45  with loss 1.7852  for epoch 122 ===
+
+=== Training Completed at 2025-09-01 16:10:06  with loss 1.7650  for epoch 123 ===
+
+=== Training Completed at 2025-09-01 16:15:27  with loss 1.7755  for epoch 124 ===
+
+=== Training Completed at 2025-09-01 16:20:49  with loss 1.7815  for epoch 125 ===
+
+=== Training Completed at 2025-09-01 16:26:10  with loss 1.7838  for epoch 126 ===
+
+=== Training Completed at 2025-09-01 16:31:31  with loss 1.7703  for epoch 127 ===
+
+=== Training Completed at 2025-09-01 16:36:51  with loss 1.7726  for epoch 128 ===
+
+=== Training Completed at 2025-09-01 16:42:11  with loss 1.7575  for epoch 129 ===
+
+=== Training Completed at 2025-09-01 16:47:32  with loss 1.7645  for epoch 130 ===
+
+=== Training Completed at 2025-09-01 16:52:54  with loss 1.7818  for epoch 131 ===
+
+=== Training Completed at 2025-09-01 16:58:15  with loss 1.7723  for epoch 132 ===
+
+=== Training Completed at 2025-09-01 17:03:38  with loss 1.7642  for epoch 133 ===
+
+=== Training Completed at 2025-09-01 17:08:59  with loss 1.7656  for epoch 134 ===
+
+=== Training Completed at 2025-09-01 17:14:27  with loss 1.7584  for epoch 135 ===
+
+=== Training Completed at 2025-09-01 17:19:49  with loss 1.7562  for epoch 136 ===
+
+=== Training Completed at 2025-09-01 17:25:10  with loss 1.7495  for epoch 137 ===
+
+=== Training Completed at 2025-09-01 17:30:32  with loss 1.7336  for epoch 138 ===
+
+=== Training Completed at 2025-09-01 17:35:53  with loss 1.7607  for epoch 139 ===
+
+=== Training Completed at 2025-09-01 17:41:14  with loss 1.7237  for epoch 140 ===
+
+=== Training Completed at 2025-09-01 17:46:35  with loss 1.7443  for epoch 141 ===
+
+=== Training Completed at 2025-09-01 17:51:55  with loss 1.7406  for epoch 142 ===
+
+=== Training Completed at 2025-09-01 17:57:16  with loss 1.7470  for epoch 143 ===
+
+=== Training Completed at 2025-09-01 18:02:39  with loss 1.7329  for epoch 144 ===
+
+=== Training Completed at 2025-09-01 18:08:00  with loss 1.7281  for epoch 145 ===
+
+=== Training Completed at 2025-09-01 18:13:21  with loss 1.7281  for epoch 146 ===
+
+=== Training Completed at 2025-09-01 18:18:41  with loss 1.7339  for epoch 147 ===
+
+=== Training Completed at 2025-09-01 18:24:01  with loss 1.7186  for epoch 148 ===
+
+=== Training Completed at 2025-09-01 18:29:22  with loss 1.7186  for epoch 149 ===
+
+=== Training Completed at 2025-09-01 18:34:43  with loss 1.7190  for epoch 150 ===
+
+=== Training Completed at 2025-09-01 18:40:02  with loss 1.7213  for epoch 151 ===
+
+=== Training Completed at 2025-09-01 18:45:24  with loss 1.7195  for epoch 152 ===
+
+=== Training Completed at 2025-09-01 18:50:44  with loss 1.7315  for epoch 153 ===
+
+=== Training Completed at 2025-09-01 18:56:04  with loss 1.7116  for epoch 154 ===
+
+=== Training Completed at 2025-09-01 19:01:26  with loss 1.7169  for epoch 155 ===
+
+=== Training Completed at 2025-09-01 19:06:48  with loss 1.7010  for epoch 156 ===
+
+=== Training Completed at 2025-09-01 19:12:09  with loss 1.7039  for epoch 157 ===
+
+=== Training Completed at 2025-09-01 19:17:31  with loss 1.6982  for epoch 158 ===
+
+=== Training Completed at 2025-09-01 19:22:52  with loss 1.7061  for epoch 159 ===
+
+=== Training Completed at 2025-09-01 19:28:13  with loss 1.7027  for epoch 160 ===
+
+=== Training Completed at 2025-09-01 19:33:35  with loss 1.7093  for epoch 161 ===
+
+=== Training Completed at 2025-09-01 19:38:59  with loss 1.6840  for epoch 162 ===
+
+=== Training Completed at 2025-09-01 19:44:19  with loss 1.6904  for epoch 163 ===
+
+=== Training Completed at 2025-09-01 19:49:41  with loss 1.6898  for epoch 164 ===
+
+=== Training Completed at 2025-09-01 19:55:02  with loss 1.6846  for epoch 165 ===
+
+=== Training Completed at 2025-09-01 20:00:26  with loss 1.6974  for epoch 166 ===
+
+=== Training Completed at 2025-09-01 20:05:47  with loss 1.6793  for epoch 167 ===
+
+=== Training Completed at 2025-09-01 20:11:08  with loss 1.6815  for epoch 168 ===
+
+=== Training Completed at 2025-09-01 20:16:30  with loss 1.6826  for epoch 169 ===
+
+=== Training Completed at 2025-09-01 20:21:51  with loss 1.6747  for epoch 170 ===
+
+=== Training Completed at 2025-09-01 20:27:12  with loss 1.6625  for epoch 171 ===
+
+=== Training Completed at 2025-09-01 20:32:32  with loss 1.6656  for epoch 172 ===
+
+=== Training Completed at 2025-09-01 20:37:54  with loss 1.6573  for epoch 173 ===
+
+=== Training Completed at 2025-09-01 20:43:15  with loss 1.6694  for epoch 174 ===
+
+=== Training Completed at 2025-09-01 20:48:36  with loss 1.6692  for epoch 175 ===
+
+=== Training Completed at 2025-09-01 20:53:57  with loss 1.6637  for epoch 176 ===
+
+=== Training Completed at 2025-09-01 20:59:18  with loss 1.6581  for epoch 177 ===
+
+=== Training Completed at 2025-09-01 21:04:39  with loss 1.6472  for epoch 178 ===
+
+=== Training Completed at 2025-09-01 21:10:01  with loss 1.6459  for epoch 179 ===
+
+=== Training Completed at 2025-09-01 21:15:22  with loss 1.6471  for epoch 180 ===
+
+=== Training Completed at 2025-09-01 21:20:43  with loss 1.6548  for epoch 181 ===
+
+=== Training Completed at 2025-09-01 21:26:05  with loss 1.6506  for epoch 182 ===
+
+=== Training Completed at 2025-09-01 21:31:27  with loss 1.6476  for epoch 183 ===
+
+=== Training Completed at 2025-09-01 21:36:51  with loss 1.6276  for epoch 184 ===
+
+=== Training Completed at 2025-09-01 21:42:12  with loss 1.6442  for epoch 185 ===
+
+=== Training Completed at 2025-09-01 21:47:33  with loss 1.6459  for epoch 186 ===
+
+=== Training Completed at 2025-09-01 21:52:56  with loss 1.6444  for epoch 187 ===
+
+=== Training Completed at 2025-09-01 21:58:17  with loss 1.6404  for epoch 188 ===
+
+=== Training Completed at 2025-09-01 22:03:40  with loss 1.6449  for epoch 189 ===
+
+=== Training Completed at 2025-09-01 22:09:01  with loss 1.6332  for epoch 190 ===
+
+=== Training Completed at 2025-09-01 22:14:24  with loss 1.6248  for epoch 191 ===
+
+=== Training Completed at 2025-09-01 22:19:45  with loss 1.6278  for epoch 192 ===
+
+=== Training Completed at 2025-09-01 22:25:06  with loss 1.6201  for epoch 193 ===
+
+=== Training Completed at 2025-09-01 22:30:27  with loss 1.6325  for epoch 194 ===
+
+=== Training Completed at 2025-09-01 22:35:46  with loss 1.6161  for epoch 195 ===
+
+=== Training Completed at 2025-09-01 22:41:08  with loss 1.6325  for epoch 196 ===
+
+=== Training Completed at 2025-09-01 22:46:29  with loss 1.6310  for epoch 197 ===
+
+=== Training Completed at 2025-09-01 22:51:49  with loss 1.6107  for epoch 198 ===
+
+=== Training Completed at 2025-09-01 22:57:10  with loss 1.6230  for epoch 199 ===
+
+=== Training Completed at 2025-09-01 23:02:31  with loss 1.6114  for epoch 200 ===
+
+=== Training Completed at 2025-09-01 23:07:51  with loss 1.6174  for epoch 201 ===
+
+=== Training Completed at 2025-09-01 23:13:12  with loss 1.6169  for epoch 202 ===
+
+=== Training Completed at 2025-09-01 23:18:34  with loss 1.6081  for epoch 203 ===
+
+=== Training Completed at 2025-09-01 23:23:54  with loss 1.6202  for epoch 204 ===
+
+=== Training Completed at 2025-09-01 23:29:14  with loss 1.6117  for epoch 205 ===
+
+=== Training Completed at 2025-09-01 23:34:35  with loss 1.6158  for epoch 206 ===
+
+=== Training Completed at 2025-09-01 23:39:56  with loss 1.6198  for epoch 207 ===
+
+=== Training Completed at 2025-09-01 23:45:15  with loss 1.5963  for epoch 208 ===
+
+=== Training Completed at 2025-09-01 23:50:36  with loss 1.6006  for epoch 209 ===
+
+=== Training Completed at 2025-09-01 23:55:58  with loss 1.5971  for epoch 210 ===
+
+=== Training Completed at 2025-09-02 00:01:20  with loss 1.5997  for epoch 211 ===
+
+=== Training Completed at 2025-09-02 00:06:41  with loss 1.6063  for epoch 212 ===
+
+=== Training Completed at 2025-09-02 00:12:02  with loss 1.6099  for epoch 213 ===
+
+=== Training Completed at 2025-09-02 00:17:26  with loss 1.6084  for epoch 214 ===
+
+=== Training Completed at 2025-09-02 00:22:47  with loss 1.6183  for epoch 215 ===
+
+=== Training Completed at 2025-09-02 00:28:08  with loss 1.5935  for epoch 216 ===
+
+=== Training Completed at 2025-09-02 00:33:29  with loss 1.5948  for epoch 217 ===
+
+=== Training Completed at 2025-09-02 00:38:50  with loss 1.6002  for epoch 218 ===
+
+=== Training Completed at 2025-09-02 00:44:11  with loss 1.5945  for epoch 219 ===
+
+=== Training Completed at 2025-09-02 00:49:32  with loss 1.6012  for epoch 220 ===
+
+=== Training Completed at 2025-09-02 00:54:53  with loss 1.5983  for epoch 221 ===
+
+=== Training Completed at 2025-09-02 01:00:12  with loss 1.6011  for epoch 222 ===
+
+=== Training Completed at 2025-09-02 01:05:33  with loss 1.5979  for epoch 223 ===
+
+=== Training Completed at 2025-09-02 01:10:54  with loss 1.5913  for epoch 224 ===
+
+=== Training Completed at 2025-09-02 01:16:15  with loss 1.5918  for epoch 225 ===
+
+=== Training Completed at 2025-09-02 01:21:35  with loss 1.5895  for epoch 226 ===
+
+=== Training Completed at 2025-09-02 01:26:56  with loss 1.5860  for epoch 227 ===
+
+=== Training Completed at 2025-09-02 01:32:16  with loss 1.5907  for epoch 228 ===
+
+=== Training Completed at 2025-09-02 01:37:36  with loss 1.5860  for epoch 229 ===
+
+=== Training Completed at 2025-09-02 01:42:56  with loss 1.5976  for epoch 230 ===
+
+=== Training Completed at 2025-09-02 01:48:18  with loss 1.5870  for epoch 231 ===
+
+=== Training Completed at 2025-09-02 01:53:38  with loss 1.5825  for epoch 232 ===
+
+=== Training Completed at 2025-09-02 01:58:59  with loss 1.5745  for epoch 233 ===
+
+=== Training Completed at 2025-09-02 02:04:20  with loss 1.5890  for epoch 234 ===
+
+=== Training Completed at 2025-09-02 02:09:47  with loss 1.5746  for epoch 235 ===
+
+=== Training Completed at 2025-09-02 02:15:08  with loss 1.5863  for epoch 236 ===
+
+=== Training Completed at 2025-09-02 02:20:29  with loss 1.5922  for epoch 237 ===
+
+=== Training Completed at 2025-09-02 02:25:49  with loss 1.5728  for epoch 238 ===
+
+=== Training Completed at 2025-09-02 02:31:09  with loss 1.5654  for epoch 239 ===
+
+=== Training Completed at 2025-09-02 02:36:30  with loss 1.5721  for epoch 240 ===
+
+=== Training Completed at 2025-09-02 02:41:50  with loss 1.5752  for epoch 241 ===
+
+=== Training Completed at 2025-09-02 02:47:11  with loss 1.5678  for epoch 242 ===
+
+=== Training Completed at 2025-09-02 02:52:31  with loss 1.5729  for epoch 243 ===
+
+=== Training Completed at 2025-09-02 02:57:52  with loss 1.5692  for epoch 244 ===
+
+=== Training Completed at 2025-09-02 03:03:19  with loss 1.5700  for epoch 245 ===
+
+=== Training Completed at 2025-09-02 03:08:41  with loss 1.5689  for epoch 246 ===
+
+=== Training Completed at 2025-09-02 03:14:07  with loss 1.5725  for epoch 247 ===
+
+=== Training Completed at 2025-09-02 03:19:29  with loss 1.5691  for epoch 248 ===
+
+=== Training Completed at 2025-09-02 03:24:49  with loss 1.5617  for epoch 249 ===
+
+=== Training Completed at 2025-09-02 03:30:11  with loss 1.5605  for epoch 250 ===
+
+=== Training Completed at 2025-09-02 03:35:33  with loss 1.5595  for epoch 251 ===
+
+=== Training Completed at 2025-09-02 03:40:53  with loss 1.5761  for epoch 252 ===
+
+=== Training Completed at 2025-09-02 03:46:16  with loss 1.5566  for epoch 253 ===
+
+=== Training Completed at 2025-09-02 03:51:37  with loss 1.5540  for epoch 254 ===
+
+=== Training Completed at 2025-09-02 03:56:57  with loss 1.5595  for epoch 255 ===
+
+=== Training Completed at 2025-09-02 04:02:19  with loss 1.5659  for epoch 256 ===
+
+=== Training Completed at 2025-09-02 04:07:40  with loss 1.5818  for epoch 257 ===
+
+=== Training Completed at 2025-09-02 04:13:01  with loss 1.5580  for epoch 258 ===
+
+=== Training Completed at 2025-09-02 04:18:23  with loss 1.5667  for epoch 259 ===
+
+=== Training Completed at 2025-09-02 04:23:44  with loss 1.5590  for epoch 260 ===
+
+=== Training Completed at 2025-09-02 04:29:05  with loss 1.5610  for epoch 261 ===
+
+=== Training Completed at 2025-09-02 04:34:26  with loss 1.5455  for epoch 262 ===
+
+=== Training Completed at 2025-09-02 04:39:47  with loss 1.5567  for epoch 263 ===
+
+=== Training Completed at 2025-09-02 04:45:09  with loss 1.5524  for epoch 264 ===
+
+=== Training Completed at 2025-09-02 04:50:29  with loss 1.5529  for epoch 265 ===
+
+=== Training Completed at 2025-09-02 04:55:50  with loss 1.5535  for epoch 266 ===
+
+=== Training Completed at 2025-09-02 05:01:12  with loss 1.5430  for epoch 267 ===
+
+=== Training Completed at 2025-09-02 05:06:34  with loss 1.5348  for epoch 268 ===
+
+=== Training Completed at 2025-09-02 05:11:55  with loss 1.5466  for epoch 269 ===
+
+=== Training Completed at 2025-09-02 05:17:16  with loss 1.5494  for epoch 270 ===
+
+=== Training Completed at 2025-09-02 05:22:38  with loss 1.5474  for epoch 271 ===
+
+=== Training Completed at 2025-09-02 05:27:59  with loss 1.5522  for epoch 272 ===
+
+=== Training Completed at 2025-09-02 05:33:20  with loss 1.5406  for epoch 273 ===
+
+=== Training Completed at 2025-09-02 05:38:42  with loss 1.5434  for epoch 274 ===
+
+=== Training Completed at 2025-09-02 05:44:02  with loss 1.5583  for epoch 275 ===
+
+=== Training Completed at 2025-09-02 05:49:23  with loss 1.5542  for epoch 276 ===
+
+=== Training Completed at 2025-09-02 05:54:44  with loss 1.5505  for epoch 277 ===
+
+=== Training Completed at 2025-09-02 06:00:05  with loss 1.5424  for epoch 278 ===
+
+=== Training Completed at 2025-09-02 06:05:26  with loss 1.5436  for epoch 279 ===
+
+=== Training Completed at 2025-09-02 06:10:47  with loss 1.5476  for epoch 280 ===
+
+=== Training Completed at 2025-09-02 06:16:08  with loss 1.5339  for epoch 281 ===
+
+=== Training Completed at 2025-09-02 06:21:28  with loss 1.5357  for epoch 282 ===
+
+=== Training Completed at 2025-09-02 06:26:49  with loss 1.5344  for epoch 283 ===
+
+=== Training Completed at 2025-09-02 06:32:09  with loss 1.5327  for epoch 284 ===
+
+=== Training Completed at 2025-09-02 06:37:30  with loss 1.5423  for epoch 285 ===
+
+=== Training Completed at 2025-09-02 06:42:51  with loss 1.5311  for epoch 286 ===
+
+=== Training Completed at 2025-09-02 06:48:11  with loss 1.5381  for epoch 287 ===
+
+=== Training Completed at 2025-09-02 06:53:32  with loss 1.5343  for epoch 288 ===
+
+=== Training Completed at 2025-09-02 06:58:54  with loss 1.5375  for epoch 289 ===
+
+=== Training Completed at 2025-09-02 07:04:16  with loss 1.5338  for epoch 290 ===
+
+=== Training Completed at 2025-09-02 07:09:36  with loss 1.5413  for epoch 291 ===
+
+=== Training Completed at 2025-09-02 07:14:57  with loss 1.5302  for epoch 292 ===
+
+=== Training Completed at 2025-09-02 07:20:47  with loss 1.5227  for epoch 293 ===
+
+=== Training Completed at 2025-09-02 07:29:44  with loss 1.5212  for epoch 293 ===
+
+=== Training Completed at 2025-09-02 07:30:31  with loss 1.5243  for epoch 294 ===
+
+=== Training Completed at 2025-09-02 07:39:27  with loss 1.5303  for epoch 294 ===
+
+=== Training Completed at 2025-09-02 07:40:16  with loss 1.5325  for epoch 295 ===
+
+=== Training Completed at 2025-09-02 07:48:54  with loss 1.5221  for epoch 295 ===
+
+=== Training Completed at 2025-09-02 07:50:01  with loss 1.5194  for epoch 296 ===
+
+=== Training Completed at 2025-09-02 07:58:36  with loss 1.5179  for epoch 296 ===
+
+=== Training Completed at 2025-09-02 07:59:47  with loss 1.5272  for epoch 297 ===
+
+=== Training Completed at 2025-09-02 08:08:08  with loss 1.5239  for epoch 297 ===
+
+=== Training Completed at 2025-09-02 08:09:27  with loss 1.5298  for epoch 298 ===
+
+=== Training Completed at 2025-09-02 08:17:49  with loss 1.5271  for epoch 298 ===
+
+=== Training Completed at 2025-09-02 08:19:05  with loss 1.5310  for epoch 299 ===
+
+=== Training Completed at 2025-09-02 08:27:35  with loss 1.5222  for epoch 299 ===
+
+=== Training Completed at 2025-09-02 08:28:35  with loss 1.5242  for epoch 300 ===
+
+=== Training Completed at 2025-09-02 08:33:23  with loss 1.5252  for epoch 300 ===

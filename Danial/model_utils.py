@@ -1,0 +1,16 @@
+import torch
+def freeze_transformers(model):
+    for param in model.transformer.parameters():
+        param.requires_grad = False
+    print("Transformer layers frozen.")
+def freeze_backbone(model):
+    for param in model.backbone.parameters():
+        param.requires_grad = False
+    print("Backbone layers frozen.")
+def freeze_class_embed(model):
+    for param in model.class_embed.parameters():
+        param.requires_grad = False
+    print("Class embedding layers frozen.")
+def model_(model, num_classes):
+    model.class_embed = torch.nn.Linear(model.class_embed.in_features, num_classes)
+    return model
